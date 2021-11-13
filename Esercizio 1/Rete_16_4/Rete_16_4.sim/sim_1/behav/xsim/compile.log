@@ -1,0 +1,12 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/giuseppericcio/Documenti/ASD/Progetti tesina/Rete_16_4_completo/rete_16_4/rete_16_4.srcs/sources_1/new/demultiplexer_1_4.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'demultiplexer_1_4'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/giuseppericcio/Documenti/ASD/Progetti tesina/Rete_16_4_completo/rete_16_4/rete_16_4.srcs/sources_1/new/multiplexer_16_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'multiplexer_16_1'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/giuseppericcio/Documenti/ASD/Progetti tesina/Rete_16_4_completo/rete_16_4/rete_16_4.srcs/sources_1/new/multiplexer_2_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'multiplexer_2_1'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/giuseppericcio/Documenti/ASD/Progetti tesina/Rete_16_4_completo/rete_16_4/rete_16_4.srcs/sources_1/new/multiplexer_4_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'multiplexer_4_1'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/giuseppericcio/Documenti/ASD/Progetti tesina/Rete_16_4_completo/rete_16_4/rete_16_4.srcs/sources_1/new/rete_16_4.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'rete_16_4'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/giuseppericcio/Documenti/ASD/Progetti tesina/Rete_16_4_completo/rete_16_4/rete_16_4.srcs/sim_1/new/rete_16_4_TB.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'rete_16_4_TB'
