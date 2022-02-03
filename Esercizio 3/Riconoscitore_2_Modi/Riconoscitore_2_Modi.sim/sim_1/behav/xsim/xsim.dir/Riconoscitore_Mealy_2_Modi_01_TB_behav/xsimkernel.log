@@ -1,7 +1,0 @@
-Running: xsim.dir/Riconoscitore_Mealy_2_Modi_01_TB_behav/xsimk -simmode gui -wdb Riconoscitore_Mealy_2_Modi_01_TB_behav.wdb -simrunnum 0 -socket 56637
-Design successfully loaded
-Design Loading Memory Usage: 33360 KB (Peak: 33360 KB)
-Design Loading CPU Usage: 20 ms
-Simulation completed
-Simulation Memory Usage: 115096 KB (Peak: 172628 KB)
-Simulation CPU Usage: 30 ms
