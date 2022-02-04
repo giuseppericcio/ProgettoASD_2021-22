@@ -1,8 +1,7 @@
-# ProgettoASD_2021-22
-# Prefazione
+# Progetto d'Esame di Architettura dei Sistemi Digitali
 
-Per la realizzazione del progetto si è seguito un diagramma di Gantt, uno strumento utile per la pianificazione della nostra progettazione. Si è realizzata una panoramica dei compiti programmati attraverso la quale tutte le parti interessate sono a conoscenza dei compiti e delle rispettive scadenze.
-
-[Diagramma di Gantt](PianificazioneProgetto.xlsx)
-
-Ogni settimana, si è organizzato una brainstorming – riunione dove si sono discussi tutte le nostre scelte di realizzazione e motivate in gruppo al fine di essere sempre sicuri di tali scelte.
+La seguente trattazione espone dunque le soluzioni e scelte progettuali sugli esercizi proposti durante il corso al fine di migliorare le nostre skill di problem-solving. 
+Si è partito alla realizzazione di una Rete di interconnessione 16:4 con un approccio modulare utilizzando opportunamente i MUX progettati. Si è realizzato un Encoder BCD in grado di codificare l’input in una cifra che indica il numero della posizione del bit alto. Si è creato un Riconoscitore a 2 modalità con la possibilità di dover decidere come la macchina sequenziale deve riconoscere l’input in ingresso. Si è poi realizzato uno Shift Register in grado di “shiftare” a destra anche di più bit sia con un approccio combinatoriale e sia in un approccio strutturale. Si è costruito un Cronometro in grado di inizializzare l’orario utilizzando opportunamente i bottoni. Si è realizzato un Sistema di Testing in grado di testare la macchina combinatoria e la memorizzazione in una memoria. 
+Si è definito un protocollo di Handshaking tra due entità che devono comunicare al fine di effettuare la somma di stringhe di bit memorizzate nelle rispettive memorie interne. 
+Si è studiato il Processore MIC-1 e modificato determinate microistruzioni e verificato il funzionamento in simulazione. Si è generalizzato il concetto di protocollo Handshake con lo standard UART per la comunicazione seriale tra due entità. Si è realizzato una rete indiretta di interconnessione (Switch) tra più di 2 nodi e attuato il routing perfect shuffling evitando le collisioni aggiungendo una rete di priorità in ingresso. Si è costruito il Moltiplicatore di Robertson progettando opportunamente il suo algoritmo iterativo e la gestione del segno. Infine, si è scelto di realizzare come esercizio libero un Divisore di Non restoring per la realizzazione di una semplice Calcolatrice testata in simulazione. 
+È bene sottolineare che le diverse scelte di progettazione, specie nella stesura dei progetti più complessi, sono state influenzate dalla board di sviluppo a disposizione e dalle prestazioni desiderate per i componenti sviluppati.
